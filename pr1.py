@@ -1,0 +1,6 @@
+var1 = int(input("enter value:"))
+var2 = int(input("enter value:"))
+print(var1 + var2) 
+print(var1 - var2)
+print(var1 / var2) 
+print(var1 * var2) 
